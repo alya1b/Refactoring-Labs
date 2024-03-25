@@ -1,4 +1,4 @@
-Second Lab (SAVE_R)
+#Second Lab (SAVE_R)
 
 This repository contains code for the second lab assignment. The `Save_R` functionality adds a table to the existing `table_type`.
 [Original](https://github.com/Kharacternyk/univ-pr/)

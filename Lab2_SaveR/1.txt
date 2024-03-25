@@ -1,0 +1,22 @@
+Record Name is Hosp {
+    H# CHAR(5),
+    Hname CHAR(25),
+    Hadress CHAR(30),
+    rank CHAR(7) };
+Record Name is Dep {
+    D# CHAR(5),
+    Dname CHAR(25) };
+Record Name is Ch {
+    C# CHAR(5),
+    Cname CHAR(25),
+    Qnt integer };
+Record Name is Pat {
+    T# CHAR(5),
+    Tname CHAR(25),
+    diag CHAR(40),
+    temp float };
+Record Name is Ph {
+    P# CHAR(5),
+    Pname CHAR(25),
+    spec CHAR(20),
+    age integer };

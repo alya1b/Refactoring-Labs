@@ -1,0 +1,16 @@
+Record Name is A {
+    A# CHAR(5),
+    Aname CHAR(25),
+    ades CHAR(20),
+    anum integer};
+Record Name is B {
+    B# CHAR(5),
+    Bname CHAR(25),
+    Bdes CHAR(20),
+    bnum integer};
+Record Name is C {
+    C# CHAR(5),
+    Cname CHAR(25) };
+Record Name is D {
+    D# CHAR(5),
+    Dname CHAR(30) };
